@@ -1,3 +1,7 @@
+/*!
+* addFileToList.js
+* ASindleMouat
+*/
 function addFileToList() {
     $('#trackForm').parsley();
     $('#trackForm').parsley().validate();
